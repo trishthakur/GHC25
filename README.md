@@ -16,9 +16,4 @@ This space is for **GHC attendees to connect, brainstorm, and collaborate** on i
    - Your **interests or skills**
 2. We'll use this to connect and schedule **virtual ideation sessions**  
 
-## Next Steps
-- Add your GitHub profile
-- Suggest a time for an **online brainstorming session**
-- Start ideating!  
-
-💬 Everyone is welcome—no idea is too small or too big!
+Everyone is welcome—no idea is too small or too big!
